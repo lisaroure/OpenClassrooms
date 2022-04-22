@@ -777,6 +777,7 @@ h4 {
 
 .tc-white {
     color: #FFFFFF!important;
+    position: relative;
 }
 
 .btn-atomic-tangerine {
