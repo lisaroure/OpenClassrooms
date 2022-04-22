@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 19px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -706,7 +706,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 18px;
     line-height: 1.4em;
 }
 
@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
