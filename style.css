@@ -707,6 +707,11 @@ p {
     margin: auto auto auto auto;
 }
 
+.text-alt {
+    position: absolute;
+    left: -9999px;
+}
+
 h2 {
     font-size: 18px;
     line-height: 1.4em;
